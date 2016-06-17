@@ -1,8 +1,8 @@
 {
     "room": "Blank",
     "author": "Blank",
-    "icon": "http://i.imgur.com/ZH7NLfR.jpg",
-    "css": "https://dl.dropboxusercontent.com/s/7qq0oo44ko6biye/Crazytheme.css?dl=0",
+    "icon": "https://i.imgur.com/ZH7NLfR.jpg",
+    "css": "https://dl.dropboxusercontent.com/s/7qq0oo44ko6biye/Blank.css?dl=0",
     "rules": {
         "allowAutorespond": false,
         "allowAutowoot": false,
